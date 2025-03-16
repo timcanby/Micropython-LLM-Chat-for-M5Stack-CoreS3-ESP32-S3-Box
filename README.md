@@ -87,8 +87,6 @@ MIT License
 ### **Contribute & Connect**
 I’d love to hear your feedback and improvement suggestions! Feel free to **connect with me on LinkedIn**, and let’s build AI-powered microcontroller projects together. 🚀  
 
-🔗 **LinkedIn:** `kangying0501 [at] linkedin [dot] com`
-
 
 ---
 
